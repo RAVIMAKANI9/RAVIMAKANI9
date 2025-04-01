@@ -81,8 +81,8 @@ A full-stack web app that integrates event management and engagement features to
 ## 📫 How to Reach Me
 
 - 📧 **Email**: [ravi.makani99999@gmail.com](mailto:ravi.makani99999@gmail.com)
-- 🔗 **LinkedIn**: [LinkedIn Profile](#)
-- 💻 **GitHub**: [GitHub Profile](#)
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ravi-makani-90ab8a278/)
+- 💻 **GitHub**: [GitHub Profile](https://github.com/RAVIMAKANI9/)
 
 ---
 
