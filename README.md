@@ -139,7 +139,7 @@ Feel free to reach out to me if you’re interested in **collaborations**, **int
 ---
 
 ### 🎯 **Achievements & Contributions**
-- **87th Rank** in **Flipkart Grid 6.0** (E-commerce & Tech Quiz, Software Development Track).
+- Contributed to **Flipkart Grid 6.0** (E-commerce & Tech Quiz, Software Development Track).
 - **National-Level Poster Presentation** on **Srujanankura** (Vignan University).
 
 ---
