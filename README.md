@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 
-Hi there! I'm **Makani Ravi**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable Web & AI applications, exploring LLM architectures, and optimizing machine learning models. Welcome to my GitHub space, where I showcase my projects and technical journey.
+Hi there! I'm **Makani Ravi**, a passionate Backend developer, AI enthusiast, and cloud practitioner. I love building scalable Web & AI applications, exploring LLM architectures, and optimizing machine learning models. Welcome to my GitHub space, where I showcase my projects and technical journey.
 
 ---
 
