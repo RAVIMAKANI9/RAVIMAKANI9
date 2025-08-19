@@ -10,6 +10,7 @@ Hi there! I'm **Makani Ravi**, a passionate Backend developer, AI enthusiast, an
 ### 💻 **Programming & Core Concepts**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
