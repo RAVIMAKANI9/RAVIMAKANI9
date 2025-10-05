@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Ravi Makani**, a passionate **Software Engineer**, **Backend Developer**, and **AI enthusiast** specializing in building scalable web applications, distributed systems, and enterprise-level solutions. Currently pursuing B.Tech in Information Technology with professional experience at **Infosys** and multiple successful projects. Welcome to my GitHub space!
+Passionate Software Engineer with experience in backend development, AI-driven solutions, and scalable web applications. Skilled in building distributed systems and enterprise-level platforms. Currently pursuing B.Tech in Information Technology, with professional experience at Infosys and successful project implementations. Experienced in Python, Django, React.js, TensorFlow, and AI integration.
 
 ---
 
